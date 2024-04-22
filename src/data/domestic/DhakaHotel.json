@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "HOTEL BLUE BIRD",
+    "image": "/images/Domestic/Dhaka-Hotel/HOTEL-BLUE-BIRD.jpeg",
+    "href": "Dhaka/HOTEL-BLUE-BIRD"
+  },
+  {
+    "id": 2,
+    "name": "Empyrean-Dhaka-City-Centre",
+    "image": "/images/Domestic/Dhaka-Hotel/Empyrean-Dhaka-City-Centre.jpeg",
+    "href": "Dhaka/Empyrean-Dhaka-City-Centre"
+  },
+  {
+    "id": 3,
+    "name": "Central Inn Hotel Suites",
+    "image": "/images/Domestic/Dhaka-Hotel/Central-Inn-Hotel-Suites.jpeg",
+    "href": "Dhaka/Central-Inn-Hotel-Suites"
+  }
+]

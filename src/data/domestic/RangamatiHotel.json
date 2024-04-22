@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Hotel-Jum-Palace",
+    "image": "/images/Domestic/Rangamati-Hotel/Hotel-Jum-Palace.jpeg",
+    "href": "Rangamati/Hotel-Jum-Palace"
+  },
+  {
+    "id": 2,
+    "name": "Aronnok-Lakeshore-Holiday-Resort",
+    "image": "/images/Domestic/Rangamati-Hotel/Aronnok-Lakeshore-Holiday-Resort.jpeg",
+    "href": "Rangamati/Aronnok-Lakeshore-Holiday-Resort"
+  },
+  {
+    "id": 3,
+    "name": "Hill Taj Resort",
+    "image": "/images/Domestic/Rangamati-Hotel/Hill-Taj-Resort.jpeg",
+    "href": "Rangamati/Hill-Taj-Resort"
+  }
+]

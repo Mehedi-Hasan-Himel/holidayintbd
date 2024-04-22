@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Bono Nibash Hill Resort",
+    "image": "/images/Domestic/Bandarban-Hotel/Bono-Nibash.jpeg",
+    "href": "Bandarban/Bono-Nibash-Hill-Resort"
+  },
+  {
+    "id": 2,
+    "name": "Hill Crown Hotel Resort",
+    "image": "/images/Domestic/Bandarban-Hotel/Hill-Crown-Hotel-Resort.jpeg",
+    "href": "Bandarban/Hill-Crown-Hotel-Resort"
+  },
+  {
+    "id": 3,
+    "name": "Hotel Aranna Residential",
+    "image": "/images/Domestic/Bandarban-Hotel/Hotel-Aranna-Residential.jpeg",
+    "href": "Bandarban/Hotel-Aranna-Residential"
+  },
+  {
+    "id": 4,
+    "name": "Hotel Plaza",
+    "image": "/images/Domestic/Bandarban-Hotel/Hotel-Plaza.jpeg",
+    "href": "Bandarban/Hotel-Plaza"
+  },
+  {
+    "id": 5,
+    "name": "Venus Resort Coffee House",
+    "image": "/images/Domestic/Bandarban-Hotel/Venus-Resort-Coffee-House.jpeg",
+    "href": "Bandarban/Venus-Resort-Coffee-House"
+  }
+]

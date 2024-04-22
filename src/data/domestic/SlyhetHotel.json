@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "Rose View Hotel",
+    "image": "/images/Domestic/Slyhet-Hotel/Rose-View-Hotel.jpeg",
+    "href": "Sylhet/Rose-View-Hotel"
+  },
+  {
+    "id": 2,
+    "name": "Hotel Noorjahan Grand",
+    "image": "/images/Domestic/Slyhet-Hotel/Hotel-Noorjahan-Grand.jpeg",
+    "href": "Sylhet/Hotel-Noorjahan-Grand"
+  }
+]

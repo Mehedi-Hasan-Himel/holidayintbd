@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Bandarban",
+    "image": "/images/Domestic/bandarban.jpeg",
+    "href": "Domestic/Bandarban"
+  },
+  {
+    "id": 2,
+    "name": "Chittagong",
+    "image": "/images/Domestic/chittagong.jpeg",
+    "href": "Domestic/Chittagong"
+  },
+  {
+    "id": 3,
+    "name": "Cox's Bazar",
+    "image": "/images/Domestic/coxs-bazar.jpeg",
+    "href": "Domestic/Coxs-Bazar"
+  },
+  {
+    "id": 4,
+    "name": "Dhaka",
+    "image": "/images/Domestic/dhaka.jpeg",
+    "href": "Domestic/Dhaka"
+  },
+  {
+    "id": 5,
+    "name": "Rangamati",
+    "image": "/images/Domestic/sreemongol.jpeg",
+    "href": "Domestic/Rangamati"
+  },
+  {
+    "id": 6,
+    "name": "Sreemongol",
+    "image": "/images/Domestic/sreemongol.jpeg",
+    "href": "Domestic/Sreemongol"
+  },
+  {
+    "id": 7,
+    "name": "Sajek",
+    "image": "/images/Domestic/sajek.jpeg",
+    "href": "Domestic/Sajek"
+  },
+  {
+    "id": 8,
+    "name": "Sylhet",
+    "image": "/images/Domestic/sylhet.jpeg",
+    "href": "Domestic/Sylhet"
+  },
+  {
+    "id": 9,
+    "name": "Ratargul",
+    "image": "/images/Domestic/ratargul.jpeg",
+    "href": "Domestic/Ratargul"
+  }
+]

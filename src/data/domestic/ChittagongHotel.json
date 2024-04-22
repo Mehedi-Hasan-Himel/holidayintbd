@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Well Park Residence",
+    "image": "/images/Domestic/Chittagong-Hotel/Well-Park-Residence.jpeg",
+    "href": "Chittagong/Well-Park-Residence"
+  },
+  {
+    "id": 2,
+    "name": "HOTEL HERITAGE",
+    "image": "/images/Domestic/Chittagong-Hotel/HOTEL-HERITAGE.jpeg",
+    "href": "Chittagong/HOTEL-HERITAGE"
+  },
+  {
+    "id": 3,
+    "name": "Orchid Business Hotel",
+    "image": "/images/Domestic/Chittagong-Hotel/Orchid-Business-Hotel.webp",
+    "href": "Chittagong/Orchid-Business-Hotel"
+  }
+]

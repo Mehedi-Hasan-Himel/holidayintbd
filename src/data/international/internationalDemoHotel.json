@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Fu-Wang Dominoes Resort",
+    "image": "/images/Domestic/Coxs-Hotel/fuwang.jpeg",
+    "href": ""
+  },
+  {
+    "id": 2,
+    "name": "Ocean Paradise Hotel & Resort",
+    "image": "/images/Domestic/Coxs-Hotel/Ocean-Paradise.jpeg",
+    "href": ""
+  },
+  {
+    "id": 3,
+    "name": "Seagull Hotel",
+    "image": "/images/Domestic/Coxs-Hotel/Seagull-Hotel.jpeg",
+    "href": ""
+  },
+  {
+    "id": 4,
+    "name": "Bashati Bay Resort",
+    "image": "/images/Domestic/Coxs-Hotel/Bashati-Bay.jpeg",
+    "href": ""
+  },
+  {
+    "id": 5,
+    "name": "Hotel Prime Park",
+    "image": "/images/Domestic/Coxs-Hotel/Hotel-Prime.jpeg",
+    "href": ""
+  },
+  {
+    "id": 6,
+    "name": "Long Beach Hotel Cox's Bazar",
+    "image": "/images/Domestic/Coxs-Hotel/Long-Beach.jpeg",
+    "href": ""
+  },
+  {
+    "id": 7,
+    "name": "Best Western Heritage Hotel",
+    "image": "/images/Domestic/Coxs-Hotel/Best-Western.jpeg",
+    "href": ""
+  },
+  {
+    "id": 8,
+    "name": "The Cox's Today",
+    "image": "/images/Domestic/Coxs-Hotel/The-Coxs-Today.jpeg",
+    "href": ""
+  },
+  {
+    "id": 9,
+    "name": "Royal Tulip Beach Resort & Spa",
+    "image": "/images/Domestic/Coxs-Hotel/Royal-Tulip.jpeg",
+    "href": ""
+  }
+]
