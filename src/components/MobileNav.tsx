@@ -45,10 +45,10 @@ const MobileNav = () => {
       name: "Login",
       href: "/login",
     },
-    {
-      name: "Dashboard",
-      href: "/dashboard",
-    },
+    // {
+    //   name: "Dashboard",
+    //   href: "/dashboard",
+    // },
   ];
 
   const pathName = usePathname();
